@@ -1,6 +1,7 @@
 {
 	"name": "docker4me",
-	"version": "1.0.1",
+	"version": "1.0.2",
+	"description": "CLI tool for rapid orchestration of Docker Compose containers, automating the process of starting and stopping sequences.",
 	"license": "MIT",
 	"bin": "dist/cli.js",
 	"type": "module",
@@ -56,5 +57,13 @@
 			"react/prop-types": "off"
 		}
 	},
-	"prettier": "@vdemedes/prettier-config"
+	"prettier": "@vdemedes/prettier-config",
+	"repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenojunior/docker4me.git"
+  },
+	"bugs": {
+    "url": "https://github.com/zenojunior/docker4me/issues"
+  },
+	"homepage": "https://github.com/zenojunior/docker4me#readme"
 }
