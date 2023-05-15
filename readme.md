@@ -1,8 +1,12 @@
 # Docker4me
 
-> CLI tool for rapid orchestration of Docker Compose containers, automating the process of starting and stopping sequences.
 
 Docker4me is a Command Line Interface (CLI) designed to optimize the use of Docker for developers working on multiple projects. It automates the process of starting and stopping Docker containers in the correct order, saving you precious development time.
+
+
+## Example
+
+![Example Output](media/terminal.png)
 
 ## Installation
 
